@@ -12,5 +12,4 @@ navbarToggle.ontransitionend = resizeBakgroundImg;
 navbarToggle.ontransitionstart = resizeBakgroundImg;
 window.onresize = resizeBakgroundImg;
 window.onload = resizeBakgroundImg;
-
 document.querySelector('main').classList.remove('py-4');
